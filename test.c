@@ -2,6 +2,8 @@
 #include<stdio.h>
 
 int main()
-{
-	printf("hello  world!,This is limo's C\r\n");
+{	
+	int i=5;
+	printf("hello  world!,This is limo's C\r\n,%d\n",i);
+	
 }
